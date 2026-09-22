@@ -1,0 +1,49 @@
+{
+  "payload": {
+    "schema": 1,
+    "sequence": 1,
+    "models": [
+      {
+        "id": "qwen3.5-4b-q4_k_m",
+        "name": "Qwen3.5 4B",
+        "repo": "unsloth/Qwen3.5-4B-GGUF",
+        "revision": "e87f176479d0855a907a41277aca2f8ee7a09523",
+        "file": "Qwen3.5-4B-Q4_K_M.gguf",
+        "bytes": 2740937888,
+        "sha256": "00fe7986ff5f6b463e62455821146049db6f9313603938a70800d1fb69ef11a4",
+        "license": "Apache-2.0",
+        "upstream": "Qwen/Qwen3.5-4B",
+        "upstream_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+        "license_url": "https://huggingface.co/Qwen/Qwen3.5-4B/resolve/851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a/LICENSE",
+        "license_file": "Qwen3.5-4B-LICENSE.txt",
+        "license_sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a",
+        "quantization": "Q4_K_M",
+        "converter": "Unsloth",
+        "reasoning": false,
+        "release": 1,
+        "minimum_app": "2.4.3"
+      },
+      {
+        "id": "qwen3.5-2b-q4_k_m",
+        "name": "Qwen3.5 2B",
+        "repo": "unsloth/Qwen3.5-2B-GGUF",
+        "revision": "f6d5376be1edb4d416d56da11e5397a961aca8ae",
+        "file": "Qwen3.5-2B-Q4_K_M.gguf",
+        "bytes": 1280835840,
+        "sha256": "aaf42c8b7c3cab2bf3d69c355048d4a0ee9973d48f16c731c0520ee914699223",
+        "license": "Apache-2.0",
+        "upstream": "Qwen/Qwen3.5-2B",
+        "upstream_revision": "15852e8c16360a2fea060d615a32b45270f8a8fc",
+        "license_url": "https://huggingface.co/Qwen/Qwen3.5-2B/resolve/15852e8c16360a2fea060d615a32b45270f8a8fc/LICENSE",
+        "license_file": "Qwen3.5-2B-LICENSE.txt",
+        "license_sha256": "bbedc3fda3305820b977265f01b8619d87570a6739de3a5582c3464840f1e57a",
+        "quantization": "Q4_K_M",
+        "converter": "Unsloth",
+        "reasoning": false,
+        "release": 1,
+        "minimum_app": "2.4.3"
+      }
+    ]
+  },
+  "signature": "MQt3EDHkadegAwklqLzkZ0VeF+iVcnQQQ2KvXowPt02M36QVME6BNvJ28smv9NnNGRAWKzGxUbsSgciJWb9oAA=="
+}
